@@ -1,3 +1,3 @@
-https://kushnikov-2sem-graph.onrender.com/
+https://kushnikov-2sem-graph.onrender.com/ - графовая модель
 
-https://kushnikov-calculator-2sem.onrender.com/
+https://kushnikov-calculator-2sem.onrender.com/ - калькулятор
